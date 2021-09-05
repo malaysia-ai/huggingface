@@ -20,6 +20,12 @@
 
 3. We want developers very easy to run Malay NLP models. I know [Malaya](https://github.com/huseinzol05/malaya) and [Malaya-Speech](https://github.com/huseinzol05/malaya-speech) are very hard to run and not really community friendly.
 
+## How-to start
+
+1. Install [git-lfs](https://github.com/git-lfs/git-lfs/wiki/Installation).
+
+2. Git clone and you are good to go.
+
 ## Pretrained Models
 
 - **ALBERT**, a Lite BERT for Self-supervised Learning of Language Representations, https://arxiv.org/abs/1909.11942
