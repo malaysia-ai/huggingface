@@ -40,7 +40,7 @@ Or can try use in huggingface 🤗, https://huggingface.co/malay-huggingface
 
 ## Acknowledgement
 
-Thanks to [KeyReply](https://www.keyreply.com/) for sponsoring private cloud to train Malaya-Speech models, without it, this library will collapse entirely.
+Thanks to [KeyReply](https://www.keyreply.com/) for sponsoring private cloud to train models.
 
 <a href="#readme">
     <img alt="logo" width="20%" src="https://cdn.techinasia.com/data/images/16234a59ae3f218dc03815a08eaab483.png">
