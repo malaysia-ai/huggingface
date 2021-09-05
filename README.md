@@ -10,7 +10,7 @@
 
 ---
 
-**malay-huggingface**, Compile Malay NLP models for HuggingFace. 
+**malay-huggingface**, Compile Malay NLP models for HuggingFace, https://huggingface.co/malay-huggingface
 
 ## Why HuggingFace?
 
@@ -25,6 +25,12 @@
 1. Install [git-lfs](https://github.com/git-lfs/git-lfs/wiki/Installation).
 
 2. Git clone and you are good to go.
+
+## How-to get access to HuggingFace organization
+
+1. Fork and pull request.
+
+2. Once you become a maintainer, you will get access to https://huggingface.co/malay-huggingface
 
 ## Pretrained Models
 
