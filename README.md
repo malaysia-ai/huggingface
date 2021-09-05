@@ -40,13 +40,13 @@ Or can try use in huggingface 🤗, https://huggingface.co/malay-huggingface
 
 ## Acknowledgement
 
-Thanks to `KeyReply <https://www.keyreply.com/>`_ for sponsoring private cloud to train Malaya-Speech models, without it, this library will collapse entirely.
+Thanks to [KeyReply](https://www.keyreply.com/) for sponsoring private cloud to train Malaya-Speech models, without it, this library will collapse entirely.
 
 <a href="#readme">
     <img alt="logo" width="20%" src="https://cdn.techinasia.com/data/images/16234a59ae3f218dc03815a08eaab483.png">
 </a>
 
-Also, thanks to `Tensorflow Research Cloud <https://www.tensorflow.org/tfrc>`_ for free TPUs access.
+Also, thanks to [Tensorflow Research Cloud](https://www.tensorflow.org/tfrc) for free TPUs access.
 
 <a href="https://www.tensorflow.org/tfrc">
     <img alt="logo" width="20%" src="https://2.bp.blogspot.com/-xojf3dn8Ngc/WRubNXxUZJI/AAAAAAAAB1A/0W7o1hR_n20QcWyXHXDI1OTo7vXBR8f7QCLcB/s400/image2.png">
