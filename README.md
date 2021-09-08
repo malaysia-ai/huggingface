@@ -44,11 +44,7 @@
 - **TinyBERT**, Distilling BERT for Natural Language Understanding, https://arxiv.org/abs/1909.10351
 - **XLNET**, Generalized Autoregressive Pretraining for Language Understanding, https://arxiv.org/abs/1906.08237
 
-Or can try use in huggingface 🤗, https://huggingface.co/malay-huggingface
-
-## Why under huseinzol05?
-
-1. If others interested to help, we can create a public organization for this and future repositories.
+Feel free to try in huggingface 🤗, https://huggingface.co/malay-huggingface
 
 ## Acknowledgement
 
