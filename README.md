@@ -10,15 +10,15 @@
 
 ---
 
-**malay-huggingface**, Compile Malay NLP models for HuggingFace, https://huggingface.co/malay-huggingface
+**malay-huggingface**, Compile Malaysia AI models in HuggingFace, https://huggingface.co/malay-huggingface
 
 ## Why HuggingFace?
 
 1. Straightforward to run. Simply pip install and you are good to go.
 
-2. HuggingFace become a new standard to distribute NLP models, from text based up to image based.
+2. HuggingFace become a new standard to distribute machine learning models, from text based up to image based.
 
-3. We want developers very easy to run Malay NLP models. I know [Malaya](https://github.com/huseinzol05/malaya) and [Malaya-Speech](https://github.com/huseinzol05/malaya-speech) are very hard to run and not really community friendly.
+3. We want developers very easy to run Malay AI models.
 
 ## How-to start
 
@@ -45,6 +45,10 @@
 - **XLNET**, Generalized Autoregressive Pretraining for Language Understanding, https://arxiv.org/abs/1906.08237
 
 Feel free to try in huggingface 🤗, https://huggingface.co/malay-huggingface
+
+## Finetuned Models
+
+- **Pembalakan**, finetuned EfficientNet-Unet on https://github.com/BioWar/Satellite-Image-Segmentation-using-Deep-Learning-for-Deforestation-Detection dataset, deforestation semantic segmentation.
 
 ## Acknowledgement
 
