@@ -10,7 +10,7 @@
 
 ---
 
-**malay-huggingface**, Compile Malaysia AI models in HuggingFace, https://huggingface.co/malay-huggingface
+**malaysia-huggingface**, Compile Malaysia AI models in HuggingFace, https://huggingface.co/malay-huggingface
 
 ## Why HuggingFace?
 
