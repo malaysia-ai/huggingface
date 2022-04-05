@@ -10,7 +10,7 @@
 
 ---
 
-**malaysia-huggingface**, Compile Malaysia AI models in HuggingFace, https://huggingface.co/malay-huggingface
+**huggingface**, Compile Malaysia AI models in HuggingFace, https://huggingface.co/malay-huggingface
 
 ## Why HuggingFace?
 
@@ -18,7 +18,7 @@
 
 2. HuggingFace become a new standard to distribute machine learning models, from text based up to image based.
 
-3. We want developers very easy to run Malay AI models.
+3. We want developers very easy to run Malaysia AI models.
 
 ## How-to start
 
@@ -34,6 +34,8 @@
 
 ## Pretrained Models
 
+### NLP
+
 - **ALBERT**, a Lite BERT for Self-supervised Learning of Language Representations, https://arxiv.org/abs/1909.11942
 - **BERT**, Pre-training of Deep Bidirectional Transformers for Language Understanding, https://arxiv.org/abs/1810.04805
 - **BigBird**, Transformers for Longer Sequences, https://arxiv.org/abs/2007.14062
@@ -44,11 +46,20 @@
 - **TinyBERT**, Distilling BERT for Natural Language Understanding, https://arxiv.org/abs/1909.10351
 - **XLNET**, Generalized Autoregressive Pretraining for Language Understanding, https://arxiv.org/abs/1906.08237
 
+### Computer Vision
+
+- **EfficientNet**, Rethinking Model Scaling for Convolutional Neural Networks, https://arxiv.org/abs/1905.11946 on https://github.com/koechslin/swin-transformer-semantic-segmentation dataset.
+- **ConvNeXt**, A ConvNet for the 2020s, https://arxiv.org/abs/2201.03545 on https://github.com/koechslin/swin-transformer-semantic-segmentation dataset.
+
 Feel free to try in huggingface 🤗, https://huggingface.co/malay-huggingface
 
 ## Finetuned Models
 
+### Computer Vision
+
 - **Pembalakan**, finetuned EfficientNet-Unet on https://github.com/BioWar/Satellite-Image-Segmentation-using-Deep-Learning-for-Deforestation-Detection dataset, deforestation semantic segmentation.
+
+- **Jelapang Padi**, finetuned EfficientNet-Unet on https://huggingface.co/datasets/malay-huggingface/jelapang-padi dataset, paddy field semantic segmentation.
 
 ## Acknowledgement
 
