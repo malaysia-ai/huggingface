@@ -55,7 +55,7 @@ Feel free to try in huggingface 🤗, https://huggingface.co/malay-huggingface
 Thanks to [KeyReply](https://www.keyreply.com/) for sponsoring private cloud to train models.
 
 <a href="#readme">
-    <img alt="logo" width="20%" src="https://cdn.techinasia.com/data/images/16234a59ae3f218dc03815a08eaab483.png">
+    <img alt="logo" width="20%" src="https://cdn-images-1.medium.com/max/1200/1*j7PuuApAuKhdvRD_5jPvLA@2x.png">
 </a>
 
 Also, thanks to [Tensorflow Research Cloud](https://www.tensorflow.org/tfrc) for free TPUs access.
